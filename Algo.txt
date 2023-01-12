@@ -3,4 +3,5 @@ order your food
 receved food
 eat food
 get refill of drinks 
-git napkins
+get napkins
+ask for check
