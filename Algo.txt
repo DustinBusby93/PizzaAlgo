@@ -5,3 +5,4 @@ eat food
 get refill of drinks 
 get napkins
 ask for check
+check and make sure all is right
